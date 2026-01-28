@@ -1,0 +1,46 @@
+{
+  "title": "Emergency Question 🚨❤️",
+  "question": "Will you be my Valentine?",
+  "subtitle": "Quick answer… Though your name is in my notes app already😌",
+  "yesText": "Yes, obviously 💘",
+  "yesButText": "Yes but… 👀",
+  "noText": "No 😭",
+  "maybeText": "Negotiate 🤝",
+
+  "afterYes": "Ayyyy 😭❤️ We are OFFICIALLY a Valentine’s situation. Screenshot this and send it to me so I can brag respectfully.",
+  "afterYesBut": "Okayyy we have terms 😮‍💨💘 Type them below.",
+  "afterNo": "Ouch 💔 Okay… I will simply go and be dramatic in private.",
+  "afterMaybe": "Fair. I’m ready for peace talks. Nikute imessage na your response. What are your terms, Madame President?",
+
+  "yesButPlaceholder": "Example: 'Yes but you owe me shawarma + a massage + no stress 😌'",
+  "yesButSaveText": "Save my terms ✅",
+  "whatsappShareText": "I answered the Valentine question 😌💘 Here’s my response:",
+
+  "image": {
+    "enabled": true,
+    "filename": "IMG_3538.png",
+    "blurPx": 6,
+    "dim": 0.45,
+    "revealOnlyAfterAnswer": true
+  },
+
+  "fireworks": {
+    "enabled": true,
+    "durationMs": 2200
+  },
+
+  "noButtonDodge": {
+    "enabled": true,
+    "radiusPx": 90,
+    "maxDodges": 10
+  },
+
+  "theme": {
+    "background": "#1a0f1f",
+    "card": "#24122d",
+    "text": "#ffeaf7",
+    "muted": "#d6b9e8",
+    "primary": "#ff4f9a",
+    "danger": "#ff6b6b"
+  }
+}
